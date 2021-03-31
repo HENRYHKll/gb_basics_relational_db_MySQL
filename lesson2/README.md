@@ -21,7 +21,7 @@
 
 | № | Файл |
 | ------ | ------ |
-| 2 |  [lesson2/lesson2.sql] (PlDb) |
+| 2 |  [lesson2.sql](https://github.com/HENRYHKll/gb_basics_relational_db_MySQL/blob/main/lesson2/lesson2.sql) |
 
 
 ## 1.Установите СУБД MySQL. Создайте в домашней директории файл .my.cnf, задав в нем логин и пароль, который указывался при установке.
