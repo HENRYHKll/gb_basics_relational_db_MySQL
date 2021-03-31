@@ -223,7 +223,7 @@ UNLOCK TABLES;
 
 
 ```sh
-$ mysqldump --opt --where="1 limit 1000" mysql help_keyword> 100line.sql
+$ mysqldump --where="true limit 100" mysql help_keyword> 100line.sql
 $ cat 100line.sql
 -- MySQL dump 10.13  Distrib 8.0.23, for Linux (x86_64)
 --
