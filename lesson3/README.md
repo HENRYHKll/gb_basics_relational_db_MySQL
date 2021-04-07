@@ -18,7 +18,7 @@
 
 | № | Файл |
 | ------ | ------ |
-| 2 |  [lesson3.sql](https://github.com/HENRYHKll/gb_basics_relational_db_MySQL/blob/main/lesson3/lesson3.sql) |
+| 1 |  [lesson3.sql](https://github.com/HENRYHKll/gb_basics_relational_db_MySQL/blob/main/lesson3/lesson3.sql) |
 
 ## 1.Написать крипт, добавляющий в БД vk, которую создали на занятии, 3 новые таблицы (с перечнем полей, указанием индексов и внешних ключей)
 
